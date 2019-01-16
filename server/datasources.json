@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongo": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://finalproject:finalpass1@ds147411.mlab.com:47411/final-project-alx",
+    "database": "finalproject",
+    "password": "finalpass1",
+    "name": "mongo",
+    "user": "finalproject",
+    "connector": "mongodb"
+  }
+}
