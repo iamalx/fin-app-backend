@@ -31,7 +31,8 @@
       "model": "favorite",
       "foreignKey": "",
       "options": {
-        "nestRemoting": true
+        "nestRemoting": true, 
+        "unique": true
       }
     }
   },
